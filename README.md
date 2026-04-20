@@ -329,7 +329,7 @@ Gold_dim_customers → Gold_dim_products → Gold_fact_sales
 Data Engineering | PySpark | Databricks | Delta Lake
 
 [![GitHub](https://img.shields.io/badge/GitHub-asharrahman7-181717?style=flat&logo=github)](https://github.com/asharrahman7)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/asharrahman7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/ashar-abdur-rahman/)
 
 ---
 
